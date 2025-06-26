@@ -31,4 +31,3 @@ A simple and modern Todo List application built with **React JS**, powered by **
 ---
 
 Feel free to customize and improve the app to fit your needs!
-
